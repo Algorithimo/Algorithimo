@@ -3,8 +3,8 @@
 Hoje estou trabalhando em uma empresa no ramo de EPI (Equipamentos de proteção individual)<br/><br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-de-souza-filho-235923306/)<br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algorithimo&layout=donut&theme=dracula)](https://github.com/Algorithimo/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Algorithimo&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algorithimo&layout=compact&theme=dracula)](https://github.com/Algorithimo/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
