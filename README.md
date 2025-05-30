@@ -1,6 +1,9 @@
 
 ## Olá! Eu sou o Alexandre de Souza 🖐️
-Hoje estou trabalhando em uma empresa no ramo de EPI (Equipamentos de proteção individual)<br/><br/>
+Desenvolvedor de software com foco em back-end, especializado em Delphi, C#, ASP.NET Core e SQL
+Server. Experiência sólida em Análise e desenvolvimento, Algoritmo e Estrutura de Dados, construção de APIs, modelagem de dados e manutenção de
+sistemas ERP e desenvolvimento de melhorias. Possuo conhecimento avançado em práticas de Clean Code, SOLID, versionamento com Git e
+desenvolvimento de relatórios com FastReport.<br/><br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-de-souza-filho-235923306/)<br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algorithimo&layout=donut&theme=dracula)](https://github.com/Algorithimo/github-readme-stats)
