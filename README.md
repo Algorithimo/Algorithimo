@@ -23,6 +23,7 @@ desenvolvimento de relatórios com FastReport.<br/><br/>
 💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado por programção e resolver problemas.
 
 ### Últimos projetos:
+- [100 Days LeetCode - C#](https://github.com/Algorithimo/100-days-LeetCode)<br/>
 - [CRUD com Firebird - Delphi VCL](https://github.com/Algorithimo/CadastroSimplesDelphiFB)<br/>
 - [Componentes responsivos - Delphi Firemonkey](https://github.com/Algorithimo/Aleph-Componentes)<br/>
 - [CRUD de Tarefas com multiplos filtros - Entity Framework](https://github.com/Algorithimo/trilha-net-api-desafio)<br/>
